@@ -8,3 +8,4 @@ n = input("Enter the number of times you want to input n :")
 for i in range (0,n):
 	a = input ("Enter number :")
 	print fib(a)
+	#sasaad
